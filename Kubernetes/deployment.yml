@@ -20,4 +20,4 @@ spec:
         image: aj1seven/swiggy-clone:latest
         imagePullPolicy: "Always"
         ports:
-        - containerPort: 3000
+        - containerPort: 80
