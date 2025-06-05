@@ -55,7 +55,9 @@ This project demonstrates a full end-to-end DevOps workflow for deploying a **Sw
 
 ---
 
-## 📝 Setup Instructions
+##📝 Setup Instructions
+
+### Terraform Initialization
 
 ```bash
 terraform init
@@ -114,8 +116,12 @@ terraform apply -auto-approve
 - Go to your GitHub repository settings  
 - Under **Webhooks**, add a new webhook with your Jenkins server URL and `/github-webhook/` endpoint  
 - Set content type to `application/json`  
-- Choose which events to trigger the webhook (usually **push** events)  
+- Choose which events to trigger the webhook (usually **push** events) 
 - Save the webhook to enable automatic pipeline triggers on code commits  
 
 
-##PIPELINE STRUCTRUE & FINAL BUILD RESULT 
+#Deployed Application
+
+<img width="1440" alt="Screenshot 2025-06-05 at 10 59 13 AM" src="https://github.com/user-attachments/assets/fdb7809e-2719-4df3-80d7-a976d80b8998" />
+
+ 
