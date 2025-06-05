@@ -1,4 +1,4 @@
-# 🚀 Jenkins CI/CD Pipeline with Terraform, Docker, SonarQube, Trivy & Kubernetes on AWS | Swiggy Clone
+# Jenkins CI/CD Pipeline with Terraform, Docker, SonarQube, Trivy & Kubernetes on AWS | Swiggy Clone
 
 This project demonstrates a full end-to-end DevOps workflow for deploying a **Swiggy Clone Application** using modern CI/CD practices. The stack includes infrastructure provisioning with **Terraform**, CI/CD automation using **Jenkins**, static code analysis with **SonarQube**, container image vulnerability scanning with **Trivy**, containerization with **Docker**, and container orchestration using **Kubernetes** (deployed on **Amazon EKS**).
 
@@ -10,7 +10,7 @@ This project demonstrates a full end-to-end DevOps workflow for deploying a **Sw
 
 
 
-## 📌 Key Features
+## Key Features
 
 - Provision AWS EC2 instances for Jenkins, SonarQube, and Docker using Terraform  
 - Configure Jenkins for CI/CD automation  
@@ -23,7 +23,7 @@ This project demonstrates a full end-to-end DevOps workflow for deploying a **Sw
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology     | Purpose                                   |
 |----------------|-------------------------------------------|
@@ -38,7 +38,7 @@ This project demonstrates a full end-to-end DevOps workflow for deploying a **Sw
 
 ---
 
-## ⚙️ Pipeline Workflow
+## Pipeline Workflow
 
 1. **Terraform** provisions EC2 instances to host Jenkins, SonarQube, and Docker  
 2. **Jenkins** is installed and configured with required plugins  
@@ -54,7 +54,7 @@ This project demonstrates a full end-to-end DevOps workflow for deploying a **Sw
 
 ---
 
-## 📌 Setup Instructions
+## Setup Instructions
 
 ### 1. Terraform Initialization
 
