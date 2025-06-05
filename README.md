@@ -54,7 +54,7 @@ This project demonstrates a full end-to-end DevOps workflow for deploying a **Sw
 
 ---
 
-##📝 Setup Instructions
+## 📌 Setup Instructions
 
 ### 1. Terraform Initialization
 
