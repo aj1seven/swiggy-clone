@@ -3,8 +3,7 @@
 This project demonstrates a full end-to-end DevOps workflow for deploying a **Swiggy Clone Application** using modern CI/CD practices. The stack includes infrastructure provisioning with **Terraform**, CI/CD automation using **Jenkins**, static code analysis with **SonarQube**, container image vulnerability scanning with **Trivy**, containerization with **Docker**, and container orchestration using **Kubernetes** (deployed on **Amazon EKS**).
 
 ---
-##PIPELINE STRUCTRUE & FINAL BUILD RESULT 
-
+## Pipeline Structure & Final Build Result 
 
 <img width="1440" alt="Screenshot 2025-06-03 at 6 23 00 PM" src="https://github.com/user-attachments/assets/126abb76-1f6b-4925-a39f-ce06ef9f3d04" />
 
@@ -120,8 +119,8 @@ terraform apply -auto-approve
 - Save the webhook to enable automatic pipeline triggers on code commits  
 
 
-#Deployed Application
 
+#Deployed Application
 <img width="1440" alt="Screenshot 2025-06-05 at 10 59 13 AM" src="https://github.com/user-attachments/assets/fdb7809e-2719-4df3-80d7-a976d80b8998" />
 
  
