@@ -120,7 +120,8 @@ terraform apply -auto-approve
 
 
 
-#Deployed Application
+## Deployed Application
+
 <img width="1440" alt="Screenshot 2025-06-05 at 10 59 13 AM" src="https://github.com/user-attachments/assets/fdb7809e-2719-4df3-80d7-a976d80b8998" />
 
  
